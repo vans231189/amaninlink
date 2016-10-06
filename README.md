@@ -1,0 +1,2 @@
+# amaninlink
+file kode javascript
